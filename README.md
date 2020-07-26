@@ -1,7 +1,7 @@
 # beef-install
 Script que automatiza la instalación de BeEF (The Browser Exploitation Framework).
 
-## Para usarlo solo ejecuta
+## Para usarlo solo ejecuta :
 
 (en orden):
 
@@ -24,7 +24,7 @@ Y listo!
 * Kali Nethunter Rootless
 * Termux
 
-## Preview del script:
+## Preview del script :
 ![beef-install](https://user-images.githubusercontent.com/55555800/88487259-fa40e600-cf72-11ea-9c7e-7eb4594fb622.jpg)
 
 
